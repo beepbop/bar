@@ -318,7 +318,7 @@ nav ul li:hover, nav ul li.active {
 }
 .github-buttons a::before, .github-buttons a::after {
   content:""; width:200px; display:block; position:absolute;
-  top:1px; left:0; height:1px; background:#fff;
+  top:1px; left:1px; height:1px; background:#fff;
 }
 .github-buttons a::after { bottom:1px; top:auto; }
 
