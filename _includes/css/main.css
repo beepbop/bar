@@ -351,6 +351,7 @@ nav ul li:hover, nav ul li.active {
 
 #created-by img {
   max-width: 200px;
+  max-height: 200px;
   margin-right: 5px;
   border-radius: 50%;
 }
