@@ -321,31 +321,7 @@ nav ul li:hover, nav ul li.active {
   top:1px; left:0; height:1px; background:#fff;
 }
 .github-buttons a::after { bottom:1px; top:auto; }
-@media screen and (min-width:8000px) {
-  .github-buttons {
-    position:fixed;
-    display:inline;
-    top:0;
-    right:0;
-    width:200px;
-    overflow:hidden;
-    height:200px;
-    z-index:9999;
-  }
-  .github-buttons a {
-    width:200px;
-    position:absolute;
-    top:60px;
-    right:-60px;
-    transform:rotate(45deg);
-    -webkit-transform:rotate(45deg);
-    -ms-transform:rotate(45deg);
-    -moz-transform:rotate(45deg);
-    -o-transform:rotate(45deg);
-    box-shadow:4px 4px 10px rgba(0,0,0,0.8);
-    box-sizing: content-box;
-  }
-}
+
 
 
 
