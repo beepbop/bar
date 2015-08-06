@@ -335,7 +335,7 @@ nav ul li:hover, nav ul li.active {
 #created-by a:hover,
 #created-by a:active {
   background: #2e2e2e;
-  color: #fff;
+  color: #000;
   text-decoration: none;
 }
 
@@ -344,6 +344,10 @@ nav ul li:hover, nav ul li.active {
   max-height: 200px;
   margin-right: 5px;
   border-radius: 50%;
+}
+
+#created-by span {
+  display: block;
 }
 
 
