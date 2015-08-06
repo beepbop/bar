@@ -305,7 +305,7 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- github issues ----- */
 .github-buttons a {
-  color:#fff;
+  color:#000;
   text-decoration:none;
   font-family:arial,sans-serif;
   text-align:center;
