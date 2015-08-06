@@ -324,7 +324,7 @@ nav ul li:hover, nav ul li.active {
 @media screen and (min-width:8000px) {
   .github-buttons {
     position:fixed;
-    display:block;
+    display:inline;
     top:0;
     right:0;
     width:200px;
