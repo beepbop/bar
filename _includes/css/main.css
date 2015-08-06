@@ -324,22 +324,12 @@ nav ul li:hover, nav ul li.active {
 #github-buttons a::after { bottom:1px; top:auto; }
 
 /* ----- created by ----- */
-#created-by ul {
-  margin: 0 0 1em;
-  padding: 0;
-  list-style: none;
-}
-
 #created-by a {
   display: block;
   padding: 5px 40px;
   border-bottom: 1px dotted rgba(0,0,0,0.2);
   text-decoration: none;
   transition: all 0.5s ease;
-}
-
-#created-by li:last-child a {
-  border: none;
 }
 
 #created-by a:hover,
